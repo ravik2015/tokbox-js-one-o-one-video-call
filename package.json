@@ -5,7 +5,7 @@
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/opentok/one-to-one-sample-apps"
+    "url": "https://github.com/ravik2015/tokbox-js-one-o-one-video-call"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
