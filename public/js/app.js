@@ -1,11 +1,11 @@
 /* global otCore */
 const options = {
   credentials: {
-    apiKey: "46647042", //Replace with your OpenTok API key
+    apiKey: "", //Replace with your OpenTok API key
     sessionId:
-      "1_MX40NjY0NzA0Mn5-MTU4NTk5ODEzNzQ0MX5DdEkxZWU5S3h0QUt3RlBtcVFMaE1Jc3R-UH4", //Replace with a generated Session ID
+      "", //Replace with a generated Session ID
     token:
-      "T1==cGFydG5lcl9pZD00NjY0NzA0MiZzaWc9MGIzZDU5NTIxMDJmY2Y3YTFhYjM5MWFhZjA4M2UyZTUxOGNjYjRlYjpzZXNzaW9uX2lkPTFfTVg0ME5qWTBOekEwTW41LU1UVTROVGs1T0RFek56UTBNWDVEZEVreFpXVTVTM2gwUVV0M1JsQnRjVkZNYUUxSmMzUi1VSDQmY3JlYXRlX3RpbWU9MTU4NjAwMjE5OSZub25jZT0wLjUxODIxMzYwNDQ2MjU0NiZyb2xlPXB1Ymxpc2hlciZleHBpcmVfdGltZT0xNTg4NTk0MTk3JmluaXRpYWxfbGF5b3V0X2NsYXNzX2xpc3Q9", //Replace with a generated token (from the dashboard or using an OpenTok server SDK)
+      "", //Replace with a generated token (from the dashboard or using an OpenTok server SDK)
   },
   // A container can either be a query selector or an HTMLElement
   streamContainers: function streamContainers(pubSub, type, data) {
